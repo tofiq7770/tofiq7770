@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Asp.net**
 - 👨‍💻 All of my projects are available at [https://github.com/tofiq7770](https://github.com/tofiq7770)
 - 📫 How to reach me **tofiqn707@gmail.com**
-[![](https://visitcount.itsvg.in/api?id=tofiq7770&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tofiq7770) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tofiq7770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tofiqnasibli) 
@@ -19,4 +18,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tofiq7770&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=tofiq7770&icon=2&color=1)](https://visitcount.itsvg.in)
 
