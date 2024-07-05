@@ -18,6 +18,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tofiq7770&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=tofiq7770&icon=2&color=1)](https://visitcount.itsvg.in)
-
