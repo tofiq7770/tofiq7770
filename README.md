@@ -1,5 +1,5 @@
-![Abstract Cyberpunk Machines](https://media.giphy.com/media/PyLQsMvc8rhrB0e0L3/giphy.gif)
-[via GIPHY](https://giphy.com/gifs/abstract-cyberpunk-machines-PyLQsMvc8rhrB0e0L3)
+[!Abstract Cyberpunk Machines](https://media.giphy.com/media/PyLQsMvc8rhrB0e0L3/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Tofiq</h1>
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
