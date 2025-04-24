@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Backend developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Asp.net**
+- 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [https://github.com/tofiq7770](https://github.com/tofiq7770)
 - 📫 How to reach me **tofiqn707@gmail.com**
 
